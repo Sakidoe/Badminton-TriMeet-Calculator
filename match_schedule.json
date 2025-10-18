@@ -1,7 +1,24 @@
 {
-   "10:20": {
+   "10:15": {
       "1": [
-         "WD5",
+         "WD1",
+         [
+            "UCD:",
+            [
+               "Xin Huang",
+               "Rithika Oumapathy"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sankhya Gunda",
+               "Amber Li"
+            ]
+         ]
+      ],
+      "2": [
+         "WD7",
          [
             "UCD:",
             [
@@ -12,42 +29,25 @@
          [
             "SJSU:",
             [
-               "Sandara Cabagbag",
-               "Chelsea Lin"
-            ]
-         ]
-      ],
-      "2": [
-         "XD1",
-         [
-            "UCSC:",
-            [
-               "Akhilesh Nidamanuri",
-               "Emily Lam"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Toan Le",
+               "Shani Chiu",
                "Rupashi Bahl"
             ]
          ]
       ],
       "3": [
-         "XD6",
+         "WD4",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Yuxin Yang",
-               "Jenny Lei"
+               "Jasmeet Dhillon",
+               "Jamie Yip"
             ]
          ],
          [
             "SJSU:",
             [
-               "Seong Kang Kwong",
-               "Sankhya Gunda"
+               "Emily Kung",
+               "Natalie Luong"
             ]
          ]
       ],
@@ -71,10 +71,10 @@
       "5": [
          "XD3",
          [
-            "UCD:",
+            "UCSC:",
             [
-               "Benson Ngai",
-               "Rithika Oumapathy"
+               "George Wu",
+               "Penny Liu"
             ]
          ],
          [
@@ -95,56 +95,22 @@
             ]
          ],
          [
-            "SJSU:",
+            "UCD:",
             [
-               "Khoa Nguyen",
-               "Natalie Luong"
+               "Kevin Cuan",
+               "Iris Lee"
             ]
          ]
       ]
    },
-   "10:40": {
+   "10:30": {
       "1": [
-         "WD7",
+         "WD2",
          [
-            "UCD:",
+            "UCSC:",
             [
-               "Livia Rice",
-               "Minh Nguyen"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Shani Chiu",
-               "Rupashi Bahl"
-            ]
-         ]
-      ],
-      "2": [
-         "WD4",
-         [
-            "UCD:",
-            [
-               "Jasmeet Dhillon",
-               "Jamie Yip"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sandara Cabagbag",
-               "Chelsea Lin"
-            ]
-         ]
-      ],
-      "3": [
-         "WD1",
-         [
-            "UCD:",
-            [
-               "Xin Huang",
-               "Rithika Oumapathy"
+               "Erin Chang",
+               "Ishika Gwalherkar"
             ]
          ],
          [
@@ -155,7 +121,24 @@
             ]
          ]
       ],
-      "4": [
+      "2": [
+         "WD3",
+         [
+            "UCD:",
+            [
+               "Livia Rice",
+               "Minh Nguyen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Emily Kung",
+               "Natalie Luong"
+            ]
+         ]
+      ],
+      "3": [
          "MD10",
          [
             "UCD:",
@@ -167,35 +150,122 @@
          [
             "SJSU:",
             [
-               "Seong Kang Kwong",
-               "Logan Lei Chong"
+               "Benjamin Do",
+               "Juan David Liang"
             ]
          ]
       ],
-      "5": [
-         "MD4",
+      "4": [
+         "XD1",
          [
             "UCSC:",
             [
-               "Adam Vu",
-               "Sashreek Rewatkar"
+               "Akhilesh Nidamanuri",
+               "Emily Lam"
             ]
          ],
          [
             "SJSU:",
             [
                "Toan Le",
-               "Kyle Wong"
+               "Rupashi Bahl"
+            ]
+         ]
+      ],
+      "5": [
+         "WD1",
+         [
+            "UCSC:",
+            [
+               "Jenny Lei",
+               "Sydney Stachovic"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Xin Huang",
+               "Rithika Oumapathy"
             ]
          ]
       ],
       "6": [
-         "XD3",
+         "XD9",
          [
             "UCSC:",
             [
-               "George Wu",
-               "Penny Liu"
+               "Rithwik Vaidun",
+               "Rhea Rajan"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Kenneth Darla",
+               "Shani Chiu"
+            ]
+         ]
+      ]
+   },
+   "10:45": {
+      "1": [
+         "WD2",
+         [
+            "UCD:",
+            [
+               "Erika Lai",
+               "Iris Lee"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sankhya Gunda",
+               "Amber Li"
+            ]
+         ]
+      ],
+      "2": [
+         "XD6",
+         [
+            "UCD:",
+            [
+               "Justin Larson",
+               "Livia Rice"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Khoa Nguyen",
+               "Natalie Luong"
+            ]
+         ]
+      ],
+      "3": [
+         "XD1",
+         [
+            "UCD:",
+            [
+               "Leyang Ding",
+               "Xin Huang"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Toan Le",
+               "Rupashi Bahl"
+            ]
+         ]
+      ],
+      "4": [
+         "XD3",
+         [
+            "UCD:",
+            [
+               "Benson Ngai",
+               "Rithika Oumapathy"
             ]
          ],
          [
@@ -203,97 +273,46 @@
             [
                "Benjamin Do",
                "Niketana Thimma"
+            ]
+         ]
+      ],
+      "5": [
+         "XD4",
+         [
+            "UCSC:",
+            [
+               "Sashreek Rewatkar",
+               "Ishika Gwalherkar"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Emily Kung",
+               "Alex Nguyen"
+            ]
+         ]
+      ],
+      "6": [
+         "WD6",
+         [
+            "UCSC:",
+            [
+               "Rhea Rajan",
+               "Jenna Nguyen"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Jasmeet Dhillon",
+               "Jamie Yip"
             ]
          ]
       ]
    },
    "11:00": {
       "1": [
-         "XD6",
-         [
-            "UCD:",
-            [
-               "Justin Larson",
-               "Livia Rice"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Seong Kang Kwong",
-               "Sankhya Gunda"
-            ]
-         ]
-      ],
-      "2": [
-         "XD1",
-         [
-            "UCD:",
-            [
-               "Leyang Ding",
-               "Xin Huang"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Toan Le",
-               "Rupashi Bahl"
-            ]
-         ]
-      ],
-      "3": [
-         "WD4",
-         [
-            "UCSC:",
-            [
-               "Jiaying Zhang",
-               "Yi Zhong"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sandara Cabagbag",
-               "Chelsea Lin"
-            ]
-         ]
-      ],
-      "4": [
-         "WD6",
-         [
-            "UCSC:",
-            [
-               "Rhea Rajan",
-               "Jenna Nguyen"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Jasmeet Dhillon",
-               "Jamie Yip"
-            ]
-         ]
-      ],
-      "5": [
-         "XD4",
-         [
-            "UCSC:",
-            [
-               "Sashreek Rewatkar",
-               "Ishika Gwalherkar"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Kevin Cuan",
-               "Iris Lee"
-            ]
-         ]
-      ],
-      "6": [
          "XD5",
          [
             "UCD:",
@@ -305,27 +324,8 @@
          [
             "SJSU:",
             [
-               "Emily Kung",
-               "Alex Nguyen"
-            ]
-         ]
-      ]
-   },
-   "11:20": {
-      "1": [
-         "WD2",
-         [
-            "UCSC:",
-            [
-               "Erin Chang",
-               "Ishika Gwalherkar"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sankhya Gunda",
-               "Amber Li"
+               "Seong Kang Kwong",
+               "Sankhya Gunda"
             ]
          ]
       ],
@@ -347,21 +347,57 @@
          ]
       ],
       "3": [
-         "WS6",
+         "WD3",
          [
-            "UCD:",
+            "UCSC:",
             [
-               "Jasmeet Dhillon"
+               "Emily Lam",
+               "Jennifer Kim"
             ]
          ],
          [
             "SJSU:",
             [
-               "Sandara Cabagbag"
+               "Emily Kung",
+               "Natalie Luong"
             ]
          ]
       ],
       "4": [
+         "MD10",
+         [
+            "UCSC:",
+            [
+               "Shakthi Guruswami",
+               "Rithwik Vaidun"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Benjamin Do",
+               "Juan David Liang"
+            ]
+         ]
+      ],
+      "5": [
+         "WD6",
+         [
+            "UCD:",
+            [
+               "Jasmeet Dhillon",
+               "Jamie Yip"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Niketana Thimma",
+               "Genevieve Le"
+            ]
+         ]
+      ],
+      "6": [
          "WD7",
          [
             "UCSC:",
@@ -377,50 +413,16 @@
                "Rupashi Bahl"
             ]
          ]
-      ],
-      "5": [
-         "XD2",
-         [
-            "UCD:",
-            [
-               "Richard Huang",
-               "Erika Lai"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Chelsea Lin",
-               "Benny Wen"
-            ]
-         ]
-      ],
-      "6": [
-         "XD7",
+      ]
+   },
+   "11:15": {
+      "1": [
+         "WD1",
          [
             "UCSC:",
             [
-               "Harry Liu",
-               "Jenna Nguyen"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Giang Phi",
-               "Maina Berteloot"
-            ]
-         ]
-      ]
-   },
-   "11:40": {
-      "1": [
-         "WD2",
-         [
-            "UCD:",
-            [
-               "Erika Lai",
-               "Iris Lee"
+               "Jenny Lei",
+               "Sydney Stachovic"
             ]
          ],
          [
@@ -432,28 +434,62 @@
          ]
       ],
       "2": [
-         "WD1",
-         [
-            "UCSC:",
-            [
-               "Jenny Lei",
-               "Sydney Stachovic"
-            ]
-         ],
+         "WD5",
          [
             "UCD:",
             [
-               "Xin Huang",
-               "Rithika Oumapathy"
+               "Livia Rice",
+               "Minh Nguyen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sandara Cabagbag",
+               "Chelsea Lin"
             ]
          ]
       ],
       "3": [
-         "WS2",
+         "WD4",
          [
             "UCSC:",
             [
-               "Ishika Gwalherkar"
+               "Jiaying Zhang",
+               "Yi Zhong"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Emily Kung",
+               "Natalie Luong"
+            ]
+         ]
+      ],
+      "4": [
+         "MD12",
+         [
+            "UCSC:",
+            [
+               "Shakthi Guruswami",
+               "Rithwik Vaidun"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Benjamin Do",
+               "Juan David Liang"
+            ]
+         ]
+      ],
+      "5": [
+         "WS1",
+         [
+            "UCD:",
+            [
+               "Rithika Oumapathy"
             ]
          ],
          [
@@ -463,22 +499,58 @@
             ]
          ]
       ],
-      "4": [
-         "WS6",
+      "6": [
+         "MD4",
          [
             "UCSC:",
             [
-               "Jenna Nguyen"
+               "Adam Vu",
+               "Sashreek Rewatkar"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Justin Larson",
+               "Sam Sridhara"
+            ]
+         ]
+      ]
+   },
+   "11:30": {
+      "1": [
+         "WS4",
+         [
+            "UCD:",
+            [
+               "Jasmeet Dhillon"
             ]
          ],
          [
             "SJSU:",
             [
-               "Sandara Cabagbag"
+               "Sankhya Gunda"
             ]
          ]
       ],
-      "5": [
+      "2": [
+         "XD6",
+         [
+            "UCSC:",
+            [
+               "Yuxin Yang",
+               "Jenny Lei"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Khoa Nguyen",
+               "Natalie Luong"
+            ]
+         ]
+      ],
+      "3": [
          "WD3",
          [
             "UCSC:",
@@ -495,46 +567,12 @@
             ]
          ]
       ],
-      "6": [
-         "WD6",
+      "4": [
+         "WS2",
          [
-            "UCD:",
+            "UCSC:",
             [
-               "Jasmeet Dhillon",
-               "Jamie Yip"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Niketana Thimma",
-               "Genevieve Le"
-            ]
-         ]
-      ]
-   },
-   "01:00": {
-      "1": [
-         "WS4",
-         [
-            "UCD:",
-            [
-               "Jasmeet Dhillon"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sankhya Gunda"
-            ]
-         ]
-      ],
-      "2": [
-         "WS1",
-         [
-            "UCD:",
-            [
-               "Rithika Oumapathy"
+               "Ishika Gwalherkar"
             ]
          ],
          [
@@ -544,64 +582,13 @@
             ]
          ]
       ],
-      "3": [
-         "XD8",
-         [
-            "UCSC:",
-            [
-               "Shakthi Guruswami",
-               "Sydney Stachovic"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sandara Cabagbag",
-               "Isaac Li"
-            ]
-         ]
-      ],
-      "4": [
-         "WD3",
-         [
-            "UCD:",
-            [
-               "Livia Rice",
-               "Minh Nguyen"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Emily Kung",
-               "Natalie Luong"
-            ]
-         ]
-      ],
       "5": [
-         "MD4",
-         [
-            "UCSC:",
-            [
-               "Adam Vu",
-               "Sashreek Rewatkar"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Justin Larson",
-               "Sam Sridhara"
-            ]
-         ]
-      ],
-      "6": [
          "XD2",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Akshay Ganapathi",
-               "Erin Chang"
+               "Richard Huang",
+               "Erika Lai"
             ]
          ],
          [
@@ -611,59 +598,44 @@
                "Benny Wen"
             ]
          ]
-      ]
-   },
-   "01:20": {
-      "1": [
-         "WD1",
+      ],
+      "6": [
+         "XD4",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Jenny Lei",
-               "Sydney Stachovic"
+               "Kevin Cuan",
+               "Iris Lee"
             ]
          ],
          [
             "SJSU:",
             [
-               "Sankhya Gunda",
-               "Amber Li"
+               "Emily Kung",
+               "Alex Nguyen"
+            ]
+         ]
+      ]
+   },
+   "11:45": {
+      "1": [
+         "XD5",
+         [
+            "UCSC:",
+            [
+               "Adam Vu",
+               "Jennifer Kim"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Seong Kang Kwong",
+               "Sankhya Gunda"
             ]
          ]
       ],
       "2": [
-         "WS2",
-         [
-            "UCD:",
-            [
-               "Erika Lai"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Rupashi Bahl"
-            ]
-         ]
-      ],
-      "3": [
-         "WD5",
-         [
-            "UCSC:",
-            [
-               "Jasmin Chan",
-               "Fiona Chen"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sandara Cabagbag",
-               "Chelsea Lin"
-            ]
-         ]
-      ],
-      "4": [
          "WD7",
          [
             "UCSC:",
@@ -680,48 +652,12 @@
             ]
          ]
       ],
-      "5": [
-         "MD4",
+      "3": [
+         "WS2",
          [
             "UCD:",
             [
-               "Justin Larson",
-               "Sam Sridhara"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Toan Le",
-               "Kyle Wong"
-            ]
-         ]
-      ],
-      "6": [
-         "WD4",
-         [
-            "UCSC:",
-            [
-               "Jiaying Zhang",
-               "Yi Zhong"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Jasmeet Dhillon",
-               "Jamie Yip"
-            ]
-         ]
-      ]
-   },
-   "01:40": {
-      "1": [
-         "WS3",
-         [
-            "UCSC:",
-            [
-               "Jenny Lei"
+               "Erika Lai"
             ]
          ],
          [
@@ -731,8 +667,57 @@
             ]
          ]
       ],
-      "2": [
+      "4": [
          "WS5",
+         [
+            "UCD:",
+            [
+               "Maina Berteloot"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Natalie Luong"
+            ]
+         ]
+      ],
+      "5": [
+         "WS6",
+         [
+            "UCD:",
+            [
+               "Jasmeet Dhillon"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Amber Li"
+            ]
+         ]
+      ],
+      "6": [
+         "XD8",
+         [
+            "UCSC:",
+            [
+               "Shakthi Guruswami",
+               "Sydney Stachovic"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sandara Cabagbag",
+               "Isaac Li"
+            ]
+         ]
+      ]
+   },
+   "01:00": {
+      "1": [
+         "WS3",
          [
             "UCD:",
             [
@@ -746,18 +731,35 @@
             ]
          ]
       ],
-      "3": [
-         "WS7",
+      "2": [
+         "XD9",
          [
             "UCSC:",
             [
-               "Jolene Wei"
+               "Rithwik Vaidun",
+               "Rhea Rajan"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Donnovan Saelee",
+               "Chonticha Phanphanit"
+            ]
+         ]
+      ],
+      "3": [
+         "MS5",
+         [
+            "UCD:",
+            [
+               "Adrian Luu"
             ]
          ],
          [
             "SJSU:",
             [
-               "Sandara Cabagbag"
+               "Benjamin Do"
             ]
          ]
       ],
@@ -779,29 +781,29 @@
          ]
       ],
       "5": [
-         "WD6",
+         "WD4",
          [
             "UCSC:",
             [
-               "Rhea Rajan",
-               "Jenna Nguyen"
+               "Jiaying Zhang",
+               "Yi Zhong"
             ]
          ],
          [
-            "SJSU:",
+            "UCD:",
             [
-               "Niketana Thimma",
-               "Genevieve Le"
+               "Jasmeet Dhillon",
+               "Jamie Yip"
             ]
          ]
       ],
       "6": [
-         "MD5",
+         "MD4",
          [
             "UCSC:",
             [
-               "Yuxin Yang",
-               "Hardy Chen"
+               "Adam Vu",
+               "Sashreek Rewatkar"
             ]
          ],
          [
@@ -813,28 +815,13 @@
          ]
       ]
    },
-   "02:00": {
+   "01:15": {
       "1": [
          "WS3",
          [
-            "UCD:",
-            [
-               "Maina Berteloot"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Rupashi Bahl"
-            ]
-         ]
-      ],
-      "2": [
-         "WS4",
-         [
             "UCSC:",
             [
-               "Jiaying Zhang"
+               "Jenny Lei"
             ]
          ],
          [
@@ -844,37 +831,41 @@
             ]
          ]
       ],
-      "3": [
-         "WS7",
-         [
-            "UCD:",
-            [
-               "Chonticha Phanphanit"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sandara Cabagbag"
-            ]
-         ]
-      ],
-      "4": [
-         "WS6",
+      "2": [
+         "XD7",
          [
             "UCSC:",
             [
+               "Harry Liu",
                "Jenna Nguyen"
             ]
          ],
          [
             "UCD:",
             [
-               "Jasmeet Dhillon"
+               "Giang Phi",
+               "Maina Berteloot"
             ]
          ]
       ],
-      "5": [
+      "3": [
+         "XD9",
+         [
+            "UCD:",
+            [
+               "Donnovan Saelee",
+               "Chonticha Phanphanit"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Kenneth Darla",
+               "Shani Chiu"
+            ]
+         ]
+      ],
+      "4": [
          "XD2",
          [
             "UCSC:",
@@ -891,7 +882,7 @@
             ]
          ]
       ],
-      "6": [
+      "5": [
          "XD3",
          [
             "UCSC:",
@@ -907,57 +898,8 @@
                "Rithika Oumapathy"
             ]
          ]
-      ]
-   },
-   "02:20": {
-      "1": [
-         "WS1",
-         [
-            "UCSC:",
-            [
-               "Penny Liu"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Rupashi Bahl"
-            ]
-         ]
       ],
-      "2": [
-         "WS5",
-         [
-            "UCSC:",
-            [
-               "Yi Zhong"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sankhya Gunda"
-            ]
-         ]
-      ],
-      "3": [
-         "XD8",
-         [
-            "UCD:",
-            [
-               "Marc Ethan Saguiped",
-               "Carolyn"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sandara Cabagbag",
-               "Isaac Li"
-            ]
-         ]
-      ],
-      "4": [
+      "6": [
          "XD5",
          [
             "UCSC:",
@@ -973,59 +915,42 @@
                "Minh Nguyen"
             ]
          ]
-      ],
-      "5": [
-         "XD7",
+      ]
+   },
+   "01:30": {
+      "1": [
+         "WS4",
          [
             "UCSC:",
             [
-               "Harry Liu",
+               "Jiaying Zhang"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sankhya Gunda"
+            ]
+         ]
+      ],
+      "2": [
+         "WD6",
+         [
+            "UCSC:",
+            [
+               "Rhea Rajan",
                "Jenna Nguyen"
             ]
          ],
          [
             "SJSU:",
             [
-               "Genevieve Le",
-               "Tyler Yeh"
+               "Niketana Thimma",
+               "Genevieve Le"
             ]
          ]
       ],
-      "6": [
-         "WS3",
-         [
-            "UCSC:",
-            [
-               "Jenny Lei"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Maina Berteloot"
-            ]
-         ]
-      ]
-   },
-   "02:40": {
-      "1": [
-         "XD5",
-         [
-            "UCSC:",
-            [
-               "Adam Vu",
-               "Jennifer Kim"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Emily Kung",
-               "Alex Nguyen"
-            ]
-         ]
-      ],
-      "2": [
+      "3": [
          "WD5",
          [
             "UCSC:",
@@ -1042,7 +967,37 @@
             ]
          ]
       ],
-      "3": [
+      "4": [
+         "WS1",
+         [
+            "UCSC:",
+            [
+               "Penny Liu"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Rupashi Bahl"
+            ]
+         ]
+      ],
+      "5": [
+         "WS3",
+         [
+            "UCSC:",
+            [
+               "Jenny Lei"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Maina Berteloot"
+            ]
+         ]
+      ],
+      "6": [
          "MD1",
          [
             "UCD:",
@@ -1054,12 +1009,29 @@
          [
             "SJSU:",
             [
-               "Kelvin Chong",
-               "Brandon Lee"
+               "Khang Nguyen",
+               "Tyler Yeh"
+            ]
+         ]
+      ]
+   },
+   "01:45": {
+      "1": [
+         "WS6",
+         [
+            "UCSC:",
+            [
+               "Jenna Nguyen"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Jasmeet Dhillon"
             ]
          ]
       ],
-      "4": [
+      "2": [
          "MD2",
          [
             "UCSC:",
@@ -1071,29 +1043,46 @@
          [
             "SJSU:",
             [
-               "Khang Nguyen",
-               "Tyler Yeh"
+               "Sean Hsieh",
+               "Benny Wen"
             ]
          ]
       ],
-      "5": [
-         "MD10",
+      "3": [
+         "MD3",
          [
             "UCSC:",
             [
-               "Shakthi Guruswami",
-               "Rithwik Vaidun"
+               "Jayden Ma",
+               "George Wu"
             ]
          ],
          [
             "SJSU:",
             [
-               "Seong Kang Kwong",
-               "Logan Lei Chong"
+               "Toan Le",
+               "Kyle Wong"
             ]
          ]
       ],
-      "6": [
+      "4": [
+         "MD4",
+         [
+            "UCD:",
+            [
+               "Justin Larson",
+               "Sam Sridhara"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Alex Nguyen",
+               "Alex Luong"
+            ]
+         ]
+      ],
+      "5": [
          "MD11",
          [
             "UCD:",
@@ -1105,14 +1094,65 @@
          [
             "SJSU:",
             [
-               "Benjamin Do",
-               "Juan David Liang"
+               "Ethan Phan",
+               "Kenneth Darla"
+            ]
+         ]
+      ],
+      "6": [
+         "MD12",
+         [
+            "UCSC:",
+            [
+               "Shakthi Guruswami",
+               "Rithwik Vaidun"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Michael Salim",
+               "Nathan Pham"
             ]
          ]
       ]
    },
-   "03:00": {
+   "02:00": {
       "1": [
+         "XD7",
+         [
+            "UCSC:",
+            [
+               "Harry Liu",
+               "Jenna Nguyen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Genevieve Le",
+               "Tyler Yeh"
+            ]
+         ]
+      ],
+      "2": [
+         "MD12",
+         [
+            "UCD:",
+            [
+               "Michael Salim",
+               "Nathan Pham"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Benjamin Do",
+               "Juan David Liang"
+            ]
+         ]
+      ],
+      "3": [
          "XD1",
          [
             "UCSC:",
@@ -1129,24 +1169,73 @@
             ]
          ]
       ],
-      "2": [
-         "XD4",
+      "4": [
+         "XD2",
          [
-            "UCD:",
+            "UCSC:",
             [
-               "Kevin Cuan",
-               "Iris Lee"
+               "Akshay Ganapathi",
+               "Erin Chang"
             ]
          ],
          [
             "SJSU:",
             [
-               "Khoa Nguyen",
-               "Natalie Luong"
+               "Chelsea Lin",
+               "Benny Wen"
             ]
          ]
       ],
-      "3": [
+      "5": [
+         "XD8",
+         [
+            "UCSC:",
+            [
+               "Shakthi Guruswami",
+               "Sydney Stachovic"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Marc Ethan Saguiped",
+               "Carolyn"
+            ]
+         ]
+      ],
+      "6": [
+         "WS2",
+         [
+            "UCSC:",
+            [
+               "Ishika Gwalherkar"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Erika Lai"
+            ]
+         ]
+      ]
+   },
+   "02:15": {
+      "1": [
+         "WS6",
+         [
+            "UCSC:",
+            [
+               "Jenna Nguyen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Amber Li"
+            ]
+         ]
+      ],
+      "2": [
          "XD7",
          [
             "UCD:",
@@ -1163,101 +1252,18 @@
             ]
          ]
       ],
-      "4": [
-         "XD9",
+      "3": [
+         "MS5",
          [
             "UCSC:",
             [
-               "Rithwik Vaidun",
-               "Rhea Rajan"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Donnovan Saelee",
-               "Chonticha Phanphanit"
-            ]
-         ]
-      ],
-      "5": [
-         "MS7",
-         [
-            "UCD:",
-            [
-               "Travis Choi"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Alex Nguyen"
-            ]
-         ]
-      ],
-      "6": [
-         "MS12",
-         [
-            "UCD:",
-            [
-               "Michael Salim"
+               "Hardy Chen"
             ]
          ],
          [
             "SJSU:",
             [
                "Benjamin Do"
-            ]
-         ]
-      ]
-   },
-   "03:20": {
-      "1": [
-         "XD9",
-         [
-            "UCSC:",
-            [
-               "Rithwik Vaidun",
-               "Rhea Rajan"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kenneth Darla",
-               "Shani Chiu"
-            ]
-         ]
-      ],
-      "2": [
-         "WD3",
-         [
-            "UCSC:",
-            [
-               "Emily Lam",
-               "Jennifer Kim"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Emily Kung",
-               "Natalie Luong"
-            ]
-         ]
-      ],
-      "3": [
-         "WS2",
-         [
-            "UCSC:",
-            [
-               "Ishika Gwalherkar"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Erika Lai"
             ]
          ]
       ],
@@ -1285,13 +1291,81 @@
             ]
          ],
          [
+            "SJSU:",
+            [
+               "Natalie Luong"
+            ]
+         ]
+      ],
+      "6": [
+         "MD3",
+         [
+            "UCD:",
+            [
+               "Sidney Wang",
+               "Jon Moser"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Toan Le",
+               "Kyle Wong"
+            ]
+         ]
+      ]
+   },
+   "02:30": {
+      "1": [
+         "MD6",
+         [
+            "UCSC:",
+            [
+               "Ran Chen",
+               "Justin Louie"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Seong Kang Kwong",
+               "Logan Lei Chong"
+            ]
+         ]
+      ],
+      "2": [
+         "WD5",
+         [
+            "UCSC:",
+            [
+               "Jasmin Chan",
+               "Fiona Chen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sandara Cabagbag",
+               "Chelsea Lin"
+            ]
+         ]
+      ],
+      "3": [
+         "WS5",
+         [
+            "UCSC:",
+            [
+               "Yi Zhong"
+            ]
+         ],
+         [
             "UCD:",
             [
                "Maina Berteloot"
             ]
          ]
       ],
-      "6": [
+      "4": [
          "MD1",
          [
             "UCSC:",
@@ -1307,27 +1381,8 @@
                "Benson Ngai"
             ]
          ]
-      ]
-   },
-   "03:40": {
-      "1": [
-         "XD9",
-         [
-            "UCD:",
-            [
-               "Donnovan Saelee",
-               "Chonticha Phanphanit"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kenneth Darla",
-               "Shani Chiu"
-            ]
-         ]
       ],
-      "2": [
+      "5": [
          "MD2",
          [
             "UCSC:",
@@ -1344,13 +1399,64 @@
             ]
          ]
       ],
-      "3": [
-         "MD3",
+      "6": [
+         "MD8",
+         [
+            "UCD:",
+            [
+               "Donnovan Saelee",
+               "Marc Ethan Saguiped"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Paul Bishop",
+               "Parth Gopakumar"
+            ]
+         ]
+      ]
+   },
+   "02:45": {
+      "1": [
+         "WS7",
          [
             "UCSC:",
             [
-               "Jayden Ma",
-               "George Wu"
+               "Jolene Wei"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Sandara Cabagbag"
+            ]
+         ]
+      ],
+      "2": [
+         "MD1",
+         [
+            "UCSC:",
+            [
+               "Sam Lai",
+               "Suneet Katrekar"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Khang Nguyen",
+               "Tyler Yeh"
+            ]
+         ]
+      ],
+      "3": [
+         "MD2",
+         [
+            "UCD:",
+            [
+               "Krishna Gupta",
+               "Kevin Cuan"
             ]
          ],
          [
@@ -1362,23 +1468,6 @@
          ]
       ],
       "4": [
-         "MD5",
-         [
-            "UCD:",
-            [
-               "Garrick Chan",
-               "Junru Su"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Alex Nguyen",
-               "Alex Luong"
-            ]
-         ]
-      ],
-      "5": [
          "MD11",
          [
             "UCSC:",
@@ -1395,107 +1484,18 @@
             ]
          ]
       ],
-      "6": [
-         "XD8",
-         [
-            "UCSC:",
-            [
-               "Shakthi Guruswami",
-               "Sydney Stachovic"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Marc Ethan Saguiped",
-               "Carolyn"
-            ]
-         ]
-      ]
-   },
-   "04:00": {
-      "1": [
-         "MD2",
-         [
-            "UCD:",
-            [
-               "Krishna Gupta",
-               "Kevin Cuan"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Khang Nguyen",
-               "Tyler Yeh"
-            ]
-         ]
-      ],
-      "2": [
-         "MD3",
-         [
-            "UCD:",
-            [
-               "Sidney Wang",
-               "Jon Moser"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sean Hsieh",
-               "Benny Wen"
-            ]
-         ]
-      ],
-      "3": [
-         "MD8",
-         [
-            "UCD:",
-            [
-               "Donnovan Saelee",
-               "Marc Ethan Saguiped"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Paul Bishop",
-               "Parth Gopakumar"
-            ]
-         ]
-      ],
-      "4": [
-         "MD11",
-         [
-            "UCSC:",
-            [
-               "Victor Shi",
-               "Curtis Luu"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Benjamin Do",
-               "Juan David Liang"
-            ]
-         ]
-      ],
       "5": [
-         "MD12",
+         "MS2",
          [
-            "UCD:",
+            "UCSC:",
             [
-               "Michael Salim",
-               "Nathan Pham"
+               "Sashreek Rewatkar"
             ]
          ],
          [
             "SJSU:",
             [
-               "Ethan Phan",
-               "Kenneth Darla"
+               "Kyle Wong"
             ]
          ]
       ],
@@ -1515,40 +1515,23 @@
          ]
       ]
    },
-   "04:20": {
+   "03:00": {
       "1": [
-         "MD12",
-         [
-            "UCSC:",
-            [
-               "Victor Shi",
-               "Curtis Luu"
-            ]
-         ],
+         "WS7",
          [
             "UCD:",
             [
-               "Michael Salim",
-               "Nathan Pham"
-            ]
-         ]
-      ],
-      "2": [
-         "MS3",
-         [
-            "UCD:",
-            [
-               "Jon Moser"
+               "Chonticha Phanphanit"
             ]
          ],
          [
             "SJSU:",
             [
-               "Toan Le"
+               "Sandara Cabagbag"
             ]
          ]
       ],
-      "3": [
+      "2": [
          "MS5",
          [
             "UCSC:",
@@ -1563,7 +1546,7 @@
             ]
          ]
       ],
-      "4": [
+      "3": [
          "MS6",
          [
             "UCD:",
@@ -1574,11 +1557,11 @@
          [
             "SJSU:",
             [
-               "Khang Nguyen"
+               "Alex Luong"
             ]
          ]
       ],
-      "5": [
+      "4": [
          "MS7",
          [
             "UCSC:",
@@ -1593,65 +1576,84 @@
             ]
          ]
       ],
-      "6": [
-         "MS12",
+      "5": [
+         "WS1",
          [
             "UCSC:",
             [
-               "Kai Wagner"
+               "Penny Liu"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Rithika Oumapathy"
+            ]
+         ]
+      ],
+      "6": [
+         "MD11",
+         [
+            "UCSC:",
+            [
+               "Victor Shi",
+               "Curtis Luu"
             ]
          ],
          [
             "SJSU:",
             [
-               "Benjamin Do"
+               "Ethan Phan",
+               "Kenneth Darla"
             ]
          ]
       ]
    },
-   "04:40": {
+   "03:15": {
       "1": [
-         "MS5",
+         "XD8",
          [
             "UCD:",
             [
-               "Adrian Luu"
+               "Marc Ethan Saguiped",
+               "Carolyn"
             ]
          ],
          [
             "SJSU:",
             [
-               "Alex Luong"
+               "Sandara Cabagbag",
+               "Isaac Li"
             ]
          ]
       ],
       "2": [
          "MS7",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Justin Louie"
+               "Travis Choi"
             ]
          ],
          [
             "SJSU:",
             [
-               "Alex Nguyen"
+               "Khang Nguyen"
             ]
          ]
       ],
       "3": [
-         "MS8",
+         "MS9",
          [
             "UCSC:",
             [
-               "Harry Liu"
+               "Ran Chen"
             ]
          ],
          [
             "UCD:",
             [
-               "Michael Salim"
+               "Adrian Luu"
             ]
          ]
       ],
@@ -1671,131 +1673,39 @@
          ]
       ],
       "5": [
-         "MS11",
+         "MD13",
          [
             "UCSC:",
             [
-               "Kai Wagner"
+               "Victor Shi",
+               "Curtis Luu"
             ]
          ],
          [
-            "UCD:",
+            "SJSU:",
             [
-               "Travis Choi"
+               "Ethan Phan",
+               "Kenneth Darla"
             ]
          ]
       ],
       "6": [
-         "WS1",
-         [
-            "UCSC:",
-            [
-               "Penny Liu"
-            ]
-         ],
+         "MS3",
          [
             "UCD:",
             [
-               "Rithika Oumapathy"
+               "Jon Moser"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Toan Le"
             ]
          ]
       ]
    },
-   "05:00": {
-      "1": [
-         "MS8",
-         [
-            "UCD:",
-            [
-               "Michael Salim"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Sean Hsieh"
-            ]
-         ]
-      ],
-      "2": [
-         "MS9",
-         [
-            "UCSC:",
-            [
-               "Ran Chen"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Adrian Luu"
-            ]
-         ]
-      ],
-      "3": [
-         "MS10",
-         [
-            "UCD:",
-            [
-               "Bryan Tang"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Paul Bishop"
-            ]
-         ]
-      ],
-      "4": [
-         "MD1",
-         [
-            "UCSC:",
-            [
-               "Sam Lai",
-               "Suneet Katrekar"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kelvin Chong",
-               "Brandon Lee"
-            ]
-         ]
-      ],
-      "5": [
-         "MS2",
-         [
-            "UCSC:",
-            [
-               "Sashreek Rewatkar"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kyle Wong"
-            ]
-         ]
-      ],
-      "6": [
-         "WS7",
-         [
-            "UCSC:",
-            [
-               "Jolene Wei"
-            ]
-         ],
-         [
-            "UCD:",
-            [
-               "Chonticha Phanphanit"
-            ]
-         ]
-      ]
-   },
-   "05:20": {
+   "03:30": {
       "1": [
          "MS9",
          [
@@ -1812,21 +1722,36 @@
          ]
       ],
       "2": [
-         "MS12",
+         "MS10",
+         [
+            "UCD:",
+            [
+               "Bryan Tang"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Paul Bishop"
+            ]
+         ]
+      ],
+      "3": [
+         "WS7",
          [
             "UCSC:",
             [
-               "Kai Wagner"
+               "Jolene Wei"
             ]
          ],
          [
             "UCD:",
             [
-               "Michael Salim"
+               "Chonticha Phanphanit"
             ]
          ]
       ],
-      "3": [
+      "4": [
          "MD3",
          [
             "UCSC:",
@@ -1843,7 +1768,7 @@
             ]
          ]
       ],
-      "4": [
+      "5": [
          "MD5",
          [
             "UCSC:",
@@ -1860,7 +1785,7 @@
             ]
          ]
       ],
-      "5": [
+      "6": [
          "MD6",
          [
             "UCSC:",
@@ -1876,8 +1801,44 @@
                "Bill Wong"
             ]
          ]
+      ]
+   },
+   "03:45": {
+      "1": [
+         "MD5",
+         [
+            "UCSC:",
+            [
+               "Yuxin Yang",
+               "Hardy Chen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Victor Tran",
+               "Cheng Huan Yu"
+            ]
+         ]
       ],
-      "6": [
+      "2": [
+         "MD6",
+         [
+            "UCD:",
+            [
+               "Donald Ly",
+               "Bill Wong"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Seong Kang Kwong",
+               "Logan Lei Chong"
+            ]
+         ]
+      ],
+      "3": [
          "MD7",
          [
             "UCSC:",
@@ -1893,27 +1854,8 @@
                "Khoa Nguyen"
             ]
          ]
-      ]
-   },
-   "05:40": {
-      "1": [
-         "MD6",
-         [
-            "UCSC:",
-            [
-               "Ran Chen",
-               "Justin Louie"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Victor Tran",
-               "Cheng Huan Yu"
-            ]
-         ]
       ],
-      "2": [
+      "4": [
          "MD8",
          [
             "UCSC:",
@@ -1930,13 +1872,13 @@
             ]
          ]
       ],
-      "3": [
-         "MD12",
+      "5": [
+         "MD13",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Victor Shi",
-               "Curtis Luu"
+               "Ryan Lei",
+               "Taewan Yun"
             ]
          ],
          [
@@ -1947,7 +1889,7 @@
             ]
          ]
       ],
-      "4": [
+      "6": [
          "MS1",
          [
             "UCSC:",
@@ -1961,8 +1903,10 @@
                "Leyang Ding"
             ]
          ]
-      ],
-      "5": [
+      ]
+   },
+   "04:00": {
+      "1": [
          "MS2",
          [
             "UCSC:",
@@ -1977,7 +1921,7 @@
             ]
          ]
       ],
-      "6": [
+      "2": [
          "MS3",
          [
             "UCSC:",
@@ -1991,25 +1935,8 @@
                "Jon Moser"
             ]
          ]
-      ]
-   },
-   "06:00": {
-      "1": [
-         "MS1",
-         [
-            "UCD:",
-            [
-               "Leyang Ding"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kelvin Chong"
-            ]
-         ]
       ],
-      "2": [
+      "3": [
          "MS4",
          [
             "UCSC:",
@@ -2024,7 +1951,7 @@
             ]
          ]
       ],
-      "3": [
+      "4": [
          "MS6",
          [
             "UCSC:",
@@ -2039,7 +1966,39 @@
             ]
          ]
       ],
-      "4": [
+      "5": [
+         "MS7",
+         [
+            "UCSC:",
+            [
+               "Justin Louie"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Khang Nguyen"
+            ]
+         ]
+      ],
+      "6": [
+         "MS8",
+         [
+            "UCSC:",
+            [
+               "Harry Liu"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Michael Salim"
+            ]
+         ]
+      ]
+   },
+   "04:15": {
+      "1": [
          "MS8",
          [
             "UCSC:",
@@ -2054,7 +2013,37 @@
             ]
          ]
       ],
-      "5": [
+      "2": [
+         "MS10",
+         [
+            "UCSC:",
+            [
+               "Nicholas Cen"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Paul Bishop"
+            ]
+         ]
+      ],
+      "3": [
+         "MS11",
+         [
+            "UCSC:",
+            [
+               "Kai Wagner"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Travis Choi"
+            ]
+         ]
+      ],
+      "4": [
          "MS9",
          [
             "UCSC:",
@@ -2069,35 +2058,54 @@
             ]
          ]
       ],
-      "6": [
-         "MS10",
+      "5": [
+         "MD7",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Nicholas Cen"
+               "Jordan Kwong",
+               "Chinmay Nallapothula"
             ]
          ],
          [
             "SJSU:",
             [
-               "Paul Bishop"
+               "Khoa Tran",
+               "Khoa Nguyen"
+            ]
+         ]
+      ],
+      "6": [
+         "MD13",
+         [
+            "UCSC:",
+            [
+               "Victor Shi",
+               "Curtis Luu"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Ryan Lei",
+               "Taewan Yun"
             ]
          ]
       ]
    },
-   "06:20": {
+   "04:30": {
       "1": [
-         "MS4",
+         "MS8",
          [
-            "UCSC:",
+            "UCD:",
             [
-               "Maharshi Mandapati"
+               "Michael Salim"
             ]
          ],
          [
             "SJSU:",
             [
-               "Brandon Lee"
+               "Sean Hsieh"
             ]
          ]
       ],
@@ -2117,36 +2125,6 @@
          ]
       ],
       "3": [
-         "MS1",
-         [
-            "UCSC:",
-            [
-               "Sam Lai"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kelvin Chong"
-            ]
-         ]
-      ],
-      "4": [
-         "MS5",
-         [
-            "UCSC:",
-            [
-               "Hardy Chen"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Alex Luong"
-            ]
-         ]
-      ],
-      "5": [
          "MD7",
          [
             "UCSC:",
@@ -2163,7 +2141,7 @@
             ]
          ]
       ],
-      "6": [
+      "4": [
          "MD8",
          [
             "UCSC:",
@@ -2179,9 +2157,135 @@
                "Parth Gopakumar"
             ]
          ]
+      ],
+      "5": [
+         "MS1",
+         [
+            "UCSC:",
+            [
+               "Sam Lai"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Kelvin Chong"
+            ]
+         ]
+      ],
+      "6": [
+         "MS2",
+         [
+            "UCD:",
+            [
+               "Geoffray Lee"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Kyle Wong"
+            ]
+         ]
       ]
    },
-   "06:40": {
+   "04:45": {
+      "1": [
+         "MS1",
+         [
+            "UCD:",
+            [
+               "Leyang Ding"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Kelvin Chong"
+            ]
+         ]
+      ],
+      "2": [
+         "MS4",
+         [
+            "UCSC:",
+            [
+               "Maharshi Mandapati"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Brandon Lee"
+            ]
+         ]
+      ],
+      "3": [
+         "MS6",
+         [
+            "UCSC:",
+            [
+               "Chenyi Zhang"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Alex Luong"
+            ]
+         ]
+      ],
+      "4": [
+         "MD5",
+         [
+            "UCD:",
+            [
+               "Garrick Chan",
+               "Junru Su"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Victor Tran",
+               "Cheng Huan Yu"
+            ]
+         ]
+      ],
+      "5": [
+         "MD9",
+         [
+            "UCSC:",
+            [
+               "Howell Zhang",
+               "Hao Yuan Zhu"
+            ]
+         ],
+         [
+            "UCD:",
+            [
+               "Aaron Lim",
+               "Adrian Luo"
+            ]
+         ]
+      ],
+      "6": [
+         "MS11",
+         [
+            "UCSC:",
+            [
+               "Kai Wagner"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Aditya Nagpal"
+            ]
+         ]
+      ]
+   },
+   "05:00": {
       "1": [
          "MS4",
          [
@@ -2198,83 +2302,46 @@
          ]
       ],
       "2": [
-         "MD7",
-         [
-            "UCD:",
-            [
-               "Jordan Kwong",
-               "Chinmay Nallapothula"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Khoa Tran",
-               "Khoa Nguyen"
-            ]
-         ]
-      ],
-      "3": [
-         "MS2",
-         [
-            "UCD:",
-            [
-               "Geoffray Lee"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Kyle Wong"
-            ]
-         ]
-      ],
-      "4": [
-         "MS6",
+         "MD9",
          [
             "UCSC:",
             [
-               "Chenyi Zhang"
+               "Howell Zhang",
+               "Hao Yuan Zhu"
             ]
          ],
          [
             "SJSU:",
             [
-               "Khang Nguyen"
-            ]
-         ]
-      ],
-      "5": [
-         "MS11",
-         [
-            "UCSC:",
-            [
-               "Kai Wagner"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Aditya Nagpal"
-            ]
-         ]
-      ],
-      "6": [
-         "MD6",
-         [
-            "UCD:",
-            [
-               "Donald Ly",
-               "Bill Wong"
-            ]
-         ],
-         [
-            "SJSU:",
-            [
-               "Victor Tran",
-               "Cheng Huan Yu"
+               "Jun Quan Yap",
+               "Kien Than"
             ]
          ]
       ]
-   }
+   },
+   "05:15": {
+      "1": [
+         "MD9",
+         [
+            "UCD:",
+            [
+               "Aaron Lim",
+               "Adrian Luo"
+            ]
+         ],
+         [
+            "SJSU:",
+            [
+               "Jun Quan Yap",
+               "Kien Than"
+            ]
+         ]
+      ]
+   },
+   "05:30": {},
+   "05:45": {},
+   "06:00": {},
+   "06:15": {},
+   "06:30": {},
+   "06:45": {}
 }

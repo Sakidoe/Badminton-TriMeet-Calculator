@@ -55,13 +55,13 @@ def conflict_sets(matches):
                     conflicts[i].add(j)
     return conflicts
 
-def build_slot_times(slot_minutes=20, windows=None):
+def build_slot_times(slot_minutes=15, windows=None):
     """
     windows: list of tuples [(start_str, end_str), ...], e.g. [("4:30","12:00"), ("13:00","19:00")]
     Returns a list of (slot_start_dt, slot_end_dt) with step=slot_minutes.
     """
     if windows is None:
-        windows = [("10:20", "12:00"), ("13:00", "19:00")]
+        windows = [("10:15", "12:00"), ("13:00", "19:00")]
     slots = []
     for start_s, end_s in windows:
         start = datetime.strptime(start_s, "%H:%M")
@@ -163,8 +163,8 @@ def schedule_to_json(matches, slot_matches, slot_times):
 
     return out
 
-def make_schedule(meet_json_path, teams, courts=6, slot_minutes=20,
-                  windows=(("10:20","12:00"), ("13:00","19:00"))):
+def make_schedule(meet_json_path, teams, courts=6, slot_minutes=15,
+                  windows=(("10:15","12:00"), ("13:00","19:00"))):
     with open(meet_json_path, "r", encoding="utf-8") as f:
         meet = json.load(f)
 
@@ -217,8 +217,8 @@ if __name__ == "__main__":
         "save.json",
         teams,
         courts=6,
-        slot_minutes=20,
-        windows=(("10:20","12:00"), ("13:00","19:00"))  # 10:20–12, 13–19 in 20-min slots
+        slot_minutes=15,
+        windows=(("10:15","12:00"), ("13:00","19:00"))  # 10:15–12, 13–19 in 15-min slots
     )
 
     # Write the JSON schedule out in the requested format

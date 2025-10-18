@@ -1,275 +1,276 @@
 {
-   "UCSC": {
+   "SJSU": {
       "MD": {
          "Rank 1": {
             "Player Name": [
-               "Sam Lai",
-               "Suneet Katrekar"
+               "Khang Nguyen",
+               "Tyler Yeh"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Akhilesh Nidamanuri",
-               "Maharshi Mandapati"
+               "Sean Hsieh",
+               "Benny Wen"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Jayden Ma",
-               "George Wu"
+               "Toan Le",
+               "Kyle Wong"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Adam Vu",
-               "Sashreek Rewatkar"
+               "Alex Nguyen",
+               "Alex Luong"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Yuxin Yang",
-               "Hardy Chen"
+               "Victor Tran",
+               "Cheng Huan Yu"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Ran Chen",
-               "Justin Louie"
+               "Seong Kang Kwong",
+               "Logan Lei Chong"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Nicholas Cen",
-               "Mervyn Neo"
+               "Khoa Tran",
+               "Khoa Nguyen"
             ]
          },
          "Rank 8": {
             "Player Name": [
-               "Stanley Hu",
-               "Shyam Sundararajan"
+               "Paul Bishop",
+               "Parth Gopakumar"
             ]
          },
          "Rank 9": {
             "Player Name": [
-               "Howell Zhang",
-               "Hao Yuan Zhu"
+               "Jun Quan Yap",
+               "Kien Than"
             ]
          },
          "Rank 10": {
             "Player Name": [
-               "Shakthi Guruswami",
-               "Rithwik Vaidun"
+               "Benjamin Do",
+               "Juan David Liang"
             ]
          },
          "Rank 11": {
             "Player Name": [
-               "Victor Shi",
-               "Curtis Luu"
+               "Ethan Phan",
+               "Kenneth Darla"
             ]
          },
          "Rank 12": {
             "Player Name": [
-               "Victor Shi",
-               "Curtis Luu"
+               "Benjamin Do",
+               "Juan David Liang"
+            ]
+         },
+         "Rank 13": {
+            "Player Name": [
+               "Ethan Phan",
+               "Kenneth Darla"
             ]
          }
       },
       "MS": {
          "Rank 1": {
             "Player Name": [
-               "Sam Lai"
+               "Kelvin Chong"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Sashreek Rewatkar"
+               "Kyle Wong"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Akshay Ganapathi"
+               "Toan Le"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Maharshi Mandapati"
+               "Brandon Lee"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Hardy Chen"
+               "Benjamin Do"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Chenyi Zhang"
+               "Alex Luong"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Justin Louie"
+               "Khang Nguyen"
             ]
          },
          "Rank 8": {
             "Player Name": [
-               "Harry Liu"
+               "Sean Hsieh"
             ]
          },
          "Rank 9": {
             "Player Name": [
-               "Ran Chen"
+               "Logan Lei Chong"
             ]
          },
          "Rank 10": {
             "Player Name": [
-               "Nicholas Cen"
+               "Paul Bishop"
             ]
          },
          "Rank 11": {
             "Player Name": [
-               "Kai Wagner"
-            ]
-         },
-         "Rank 12": {
-            "Player Name": [
-               "Kai Wagner"
+               "Aditya Nagpal"
             ]
          }
       },
       "XD": {
          "Rank 1": {
             "Player Name": [
-               "Akhilesh Nidamanuri",
-               "Emily Lam"
+               "Toan Le",
+               "Rupashi Bahl"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Akshay Ganapathi",
-               "Erin Chang"
+               "Chelsea Lin",
+               "Benny Wen"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "George Wu",
-               "Penny Liu"
+               "Benjamin Do",
+               "Niketana Thimma"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Sashreek Rewatkar",
-               "Ishika Gwalherkar"
+               "Emily Kung",
+               "Alex Nguyen"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Adam Vu",
-               "Jennifer Kim"
+               "Seong Kang Kwong",
+               "Sankhya Gunda"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Yuxin Yang",
-               "Jenny Lei"
+               "Khoa Nguyen",
+               "Natalie Luong"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Harry Liu",
-               "Jenna Nguyen"
+               "Genevieve Le",
+               "Tyler Yeh"
             ]
          },
          "Rank 8": {
             "Player Name": [
-               "Shakthi Guruswami",
-               "Sydney Stachovic"
+               "Sandara Cabagbag",
+               "Isaac Li"
             ]
          },
          "Rank 9": {
             "Player Name": [
-               "Rithwik Vaidun",
-               "Rhea Rajan"
+               "Kenneth Darla",
+               "Shani Chiu"
             ]
          }
       },
       "WS": {
          "Rank 1": {
             "Player Name": [
-               "Penny Liu"
+               "Rupashi Bahl"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Ishika Gwalherkar"
+               "Rupashi Bahl"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Jenny Lei"
+               "Sankhya Gunda"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Jiaying Zhang"
+               "Sankhya Gunda"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Yi Zhong"
+               "Natalie Luong"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Jenna Nguyen"
+               "Amber Li"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Jolene Wei"
+               "Sandara Cabagbag"
             ]
          }
       },
       "WD": {
          "Rank 1": {
             "Player Name": [
-               "Jenny Lei",
-               "Sydney Stachovic"
+               "Sankhya Gunda",
+               "Amber Li"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Erin Chang",
-               "Ishika Gwalherkar"
+               "Sankhya Gunda",
+               "Amber Li"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Emily Lam",
-               "Jennifer Kim"
+               "Emily Kung",
+               "Natalie Luong"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Jiaying Zhang",
-               "Yi Zhong"
+               "Emily Kung",
+               "Natalie Luong"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Jasmin Chan",
-               "Fiona Chen"
+               "Sandara Cabagbag",
+               "Chelsea Lin"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Rhea Rajan",
-               "Jenna Nguyen"
+               "Niketana Thimma",
+               "Genevieve Le"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Vivian Wang",
-               "Jolene Wei"
+               "Shani Chiu",
+               "Rupashi Bahl"
             ]
          }
       }
@@ -409,11 +410,6 @@
          "Rank 11": {
             "Player Name": [
                "Travis Choi"
-            ]
-         },
-         "Rank 12": {
-            "Player Name": [
-               "Michael Salim"
             ]
          }
       },
@@ -555,277 +551,278 @@
          }
       }
    },
-   "SJSU": {
+   "UCSC": {
       "MD": {
          "Rank 1": {
             "Player Name": [
-               "Kelvin Chong",
-               "Brandon Lee"
+               "Sam Lai",
+               "Suneet Katrekar"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Khang Nguyen",
-               "Tyler Yeh"
+               "Akhilesh Nidamanuri",
+               "Maharshi Mandapati"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Sean Hsieh",
-               "Benny Wen"
+               "Jayden Ma",
+               "George Wu"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Toan Le",
-               "Kyle Wong"
+               "Adam Vu",
+               "Sashreek Rewatkar"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Alex Nguyen",
-               "Alex Luong"
+               "Yuxin Yang",
+               "Hardy Chen"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Victor Tran",
-               "Cheng Huan Yu"
+               "Ran Chen",
+               "Justin Louie"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Khoa Tran",
-               "Khoa Nguyen"
+               "Nicholas Cen",
+               "Mervyn Neo"
             ]
          },
          "Rank 8": {
             "Player Name": [
-               "Paul Bishop",
-               "Parth Gopakumar"
+               "Stanley Hu",
+               "Shyam Sundararajan"
             ]
          },
          "Rank 9": {
             "Player Name": [
-               "Jun Quan Yap",
-               "Kien Than"
+               "Howell Zhang",
+               "Hao Yuan Zhu"
             ]
          },
          "Rank 10": {
             "Player Name": [
-               "Seong Kang Kwong",
-               "Logan Lei Chong"
+               "Shakthi Guruswami",
+               "Rithwik Vaidun"
             ]
          },
          "Rank 11": {
             "Player Name": [
-               "Benjamin Do",
-               "Juan David Liang"
+               "Victor Shi",
+               "Curtis Luu"
             ]
          },
          "Rank 12": {
             "Player Name": [
-               "Ethan Phan",
-               "Kenneth Darla"
+               "Shakthi Guruswami",
+               "Rithwik Vaidun"
+            ]
+         },
+         "Rank 13": {
+            "Player Name": [
+               "Victor Shi",
+               "Curtis Luu"
             ]
          }
       },
       "MS": {
          "Rank 1": {
             "Player Name": [
-               "Kelvin Chong"
+               "Sam Lai"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Kyle Wong"
+               "Sashreek Rewatkar"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Toan Le"
+               "Akshay Ganapathi"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Brandon Lee"
+               "Maharshi Mandapati"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Alex Luong"
+               "Hardy Chen"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Khang Nguyen"
+               "Chenyi Zhang"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Alex Nguyen"
+               "Justin Louie"
             ]
          },
          "Rank 8": {
             "Player Name": [
-               "Sean Hsieh"
+               "Harry Liu"
             ]
          },
          "Rank 9": {
             "Player Name": [
-               "Logan Lei Chong"
+               "Ran Chen"
             ]
          },
          "Rank 10": {
             "Player Name": [
-               "Paul Bishop"
+               "Nicholas Cen"
             ]
          },
          "Rank 11": {
             "Player Name": [
-               "Aditya Nagpal"
-            ]
-         },
-         "Rank 12": {
-            "Player Name": [
-               "Benjamin Do"
+               "Kai Wagner"
             ]
          }
       },
       "XD": {
          "Rank 1": {
             "Player Name": [
-               "Toan Le",
-               "Rupashi Bahl"
+               "Akhilesh Nidamanuri",
+               "Emily Lam"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Chelsea Lin",
-               "Benny Wen"
+               "Akshay Ganapathi",
+               "Erin Chang"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Benjamin Do",
-               "Niketana Thimma"
+               "George Wu",
+               "Penny Liu"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Khoa Nguyen",
-               "Natalie Luong"
+               "Sashreek Rewatkar",
+               "Ishika Gwalherkar"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Emily Kung",
-               "Alex Nguyen"
+               "Adam Vu",
+               "Jennifer Kim"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Seong Kang Kwong",
-               "Sankhya Gunda"
+               "Yuxin Yang",
+               "Jenny Lei"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Genevieve Le",
-               "Tyler Yeh"
+               "Harry Liu",
+               "Jenna Nguyen"
             ]
          },
          "Rank 8": {
             "Player Name": [
-               "Sandara Cabagbag",
-               "Isaac Li"
+               "Shakthi Guruswami",
+               "Sydney Stachovic"
             ]
          },
          "Rank 9": {
             "Player Name": [
-               "Kenneth Darla",
-               "Shani Chiu"
+               "Rithwik Vaidun",
+               "Rhea Rajan"
             ]
          }
       },
       "WS": {
          "Rank 1": {
             "Player Name": [
-               "Rupashi Bahl"
+               "Penny Liu"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Rupashi Bahl"
+               "Ishika Gwalherkar"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Rupashi Bahl"
+               "Jenny Lei"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Sankhya Gunda"
+               "Jiaying Zhang"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Sankhya Gunda"
+               "Yi Zhong"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Sandara Cabagbag"
+               "Jenna Nguyen"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Sandara Cabagbag"
+               "Jolene Wei"
             ]
          }
       },
       "WD": {
          "Rank 1": {
             "Player Name": [
-               "Sankhya Gunda",
-               "Amber Li"
+               "Jenny Lei",
+               "Sydney Stachovic"
             ]
          },
          "Rank 2": {
             "Player Name": [
-               "Sankhya Gunda",
-               "Amber Li"
+               "Erin Chang",
+               "Ishika Gwalherkar"
             ]
          },
          "Rank 3": {
             "Player Name": [
-               "Emily Kung",
-               "Natalie Luong"
+               "Emily Lam",
+               "Jennifer Kim"
             ]
          },
          "Rank 4": {
             "Player Name": [
-               "Sandara Cabagbag",
-               "Chelsea Lin"
+               "Jiaying Zhang",
+               "Yi Zhong"
             ]
          },
          "Rank 5": {
             "Player Name": [
-               "Sandara Cabagbag",
-               "Chelsea Lin"
+               "Jasmin Chan",
+               "Fiona Chen"
             ]
          },
          "Rank 6": {
             "Player Name": [
-               "Niketana Thimma",
-               "Genevieve Le"
+               "Rhea Rajan",
+               "Jenna Nguyen"
             ]
          },
          "Rank 7": {
             "Player Name": [
-               "Shani Chiu",
-               "Rupashi Bahl"
+               "Vivian Wang",
+               "Jolene Wei"
             ]
          }
       }
