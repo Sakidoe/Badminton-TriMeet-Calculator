@@ -212,13 +212,13 @@ def make_schedule(meet_json_path, teams, courts=6, slot_minutes=15,
 
 # ------------------- example usage -------------------
 if __name__ == "__main__":
-    teams = ["UCSC", "UCD", "SJSU"]
+    teams = ["UCD", "UCSC", "STANFORD"]
     _, _, _, schedule_json, summary, warning = make_schedule(
         "save.json",
         teams,
         courts=6,
-        slot_minutes=15,
-        windows=(("10:15","12:00"), ("13:00","19:00"))  # 10:15–12, 13–19 in 15-min slots
+        slot_minutes=25,
+        windows=(("12:10", "13:00"), ("13:00", "20:00"))  # 12:10–13:00, 13:00–19:00 in 25-min slots
     )
 
     # Write the JSON schedule out in the requested format
